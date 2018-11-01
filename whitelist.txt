@@ -38,6 +38,7 @@ developers.facebook.com
 device.auth.xboxlive.com
 dmd.metaservices.microsoft.com
 dpm.demdex.net
+d2k03kvdk5cku0.cloudfront.net # Required for microsoft store
 e8218.dscb1.akamaiedge.net
 edge-mqtt.facebook.com
 facebook.com
